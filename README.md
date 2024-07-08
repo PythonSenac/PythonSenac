@@ -13,3 +13,10 @@ Fique à vontade pra obter mais informações em minhas redes sociais
 - Linked In: [Claudio Bonel](http://br.linkedin.com/in/bonel)
 - Instagram: [@boneclaudio](http://instagram.com/bonelclaudio)
 - Youtube: [@claudiobonel](http://youtube.com/C/ClaudioBonel)
+
+## Conhecimentos e estudos
+
+Engenharia de software, Engenharia de requisitos, modelagem de dados relacional/dimensional, desenvolvimento SQL, desenvolvimento Pyhton (pandas, numpy, scikit-learn, keras, tensorflow, sqlalchemy, matplotlib, seaborn, stremlit, flask e django), machine learning, deep learning, processamento de linguagem natural, modelagem matemática e estatística.
+
+## Projetos desenvolvidos
+  
