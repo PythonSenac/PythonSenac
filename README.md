@@ -20,7 +20,7 @@ Engenharia de software, Engenharia de requisitos, modelagem de dados relacional/
 
 ## Projetos desenvolvidos
 
-- [Projeto Python Crias: Fundamentos do desenvolvimento Python](https://github.com/PythonSenac/PythonTeste)
+- Projeto Python Crias: [Fundamentos do desenvolvimento Python](https://github.com/PythonSenac/PythonTeste)
 
 ## Contatos
 
