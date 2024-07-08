@@ -10,7 +10,8 @@ Fique à vontade pra obter mais informações em minhas redes sociais
 
 ## Redes sociais
 
-- LinkedIn: [Claudio Bonel](http://br.linkedin.com/in/bonel)
+- Linked In: [Claudio Bonel](http://br.linkedin.com/in/bonel)
 - Instagram: [@boneclaudio](http://instagram.com/bonelclaudio)
 - Youtube: [@claudiobonel](http://youtube.com/C/ClaudioBonel)
+
 
