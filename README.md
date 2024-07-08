@@ -19,4 +19,12 @@ Fique à vontade pra obter mais informações em minhas redes sociais
 Engenharia de software, Engenharia de requisitos, modelagem de dados relacional/dimensional, desenvolvimento SQL, desenvolvimento Pyhton (pandas, numpy, scikit-learn, keras, tensorflow, sqlalchemy, matplotlib, seaborn, stremlit, flask e django), machine learning, deep learning, processamento de linguagem natural, modelagem matemática e estatística.
 
 ## Projetos desenvolvidos
-  
+
+- [Projeto Python Crias: Fundamentos do desenvolvimento Python](https://github.com/PythonSenac/PythonTeste)
+
+## Contatos
+
+- Email: claudio.bonel@rj.senac.br
+- Whats app: (21) 995147746
+
+# Mais informações e detalhamentos desse portfólio poderão ser conferidas em um entrevista pessoal.
